@@ -6,3 +6,6 @@ It demonstrates how to create REST API using Golang, Gorm and MySql.
 ////////////////////// SAMPLE API TO CREATE AND FIND ORDERS /////////////////////////
 ////// IT ALSO DEMONSTRATES HOW TO USE NESTED STRUCTURES INSIDE GO STRUCTURE ////////
 /////////////////////////////////////////////////////////////////////////////////////
+
+Disclaimer:
+Data shown in the REST requests and responses are not real data and should not be used.
